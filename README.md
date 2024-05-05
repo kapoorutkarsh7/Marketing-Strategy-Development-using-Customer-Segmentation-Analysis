@@ -30,7 +30,7 @@
 <div style="page-break-after: always;"></div>
 
 ---
-# Customer Segmentation: EDA & Clustering 📊💰🎯
+# Marketing Strategy Development using Customer Segmentation Analysis 📊💰🎯
 ---
 
 This project involves Exploratory Data Analysis (EDA) and clustering to understand customer segments. The following document outlines the steps taken during the analysis, including data cleaning, feature engineering, and visualization.
